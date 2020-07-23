@@ -10,7 +10,7 @@
 > ## 🔥 A Google Drive Index built with Vue Running on CloudFlare ❤️ Workers.
 
 
-![preview](https://raw.github.com/sawankumar/Google-Drive-Index/master/Sample.png)
+![preview](https://raw.github.com/sawankumar/Google-Drive-Index/master/Sample.PNG)
 
 
 > It allows you to deploy a "Google Drive Index" on CloudFlare Workers along with many extra features.
