@@ -30,10 +30,6 @@
 
 ## Usage
 
-### Simple and automatic way
-
-Go [HERE](https://gdindex-code-builder.glitch.me/), and follow its instructions.
-
 ### Manual way
 
 1. Install [rclone](https://rclone.org/)
@@ -49,7 +45,3 @@ Go [HERE](https://gdindex-code-builder.glitch.me/), and follow its instructions.
 This mode will serve a simple nginx-like directory listing, and it only work with one drive. `upload` will be ignored in this mode.
 
 On the top of the script, change `lite: false` into `lite: true`, than thats all.
-
-## Credits :heart:‍ 
-
-* [maple3142](https://github.com/maple3142/GDIndex)
